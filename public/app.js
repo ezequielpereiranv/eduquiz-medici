@@ -70,23 +70,28 @@ async function home(){
 function renderQuestion(index){
   const q=currentPlay.questions[index];
   const progress=Math.round((index/currentPlay.total)*100);
-  page(`<div class="quiz-shell">
-    <div class="quiz-top">
-      <div><span class="eyebrow">${esc(currentPlay.name)}</span><strong>${esc(currentPlay.class)}</strong></div>
-      <button id="exitQuiz" class="text-btn" type="button">Sair</button>
+  page(`<div class="quiz-shell quiz-shell-v28">
+    <div class="quiz-brand-mini" aria-label="EduQuiz Médici">
+      <div class="quiz-brand-icon">EQ</div>
+      <div class="quiz-brand-copy"><strong>EduQuiz <span>Médici</span></strong><small>E.E. Presidente Médici</small></div>
+      <button id="exitQuiz" class="quiz-exit" type="button">Sair</button>
     </div>
-    <div class="progress-wrap"><div class="progress-bar" style="width:${progress}%"></div></div>
-    <p class="counter">Questão ${index+1} de ${currentPlay.total}</p>
-    <section class="panel question-card">
+    <div class="player-card">
+      <div class="player-avatar">👤</div>
+      <div class="player-info"><strong>${esc(currentPlay.name)}</strong><span>${esc(currentPlay.class)}</span></div>
+      <div class="question-number">Questão <b>${index+1}</b> de ${currentPlay.total}</div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:${progress}%"></div></div>
+    </div>
+    <section class="panel question-card question-card-v28">
       <div class="question-scroll">
-        <span class="topic">${esc(q.axis)}</span>
+        <div class="topic-row"><span class="topic-icon">📖</span><span class="topic">${esc(q.axis)}</span></div>
         <h1>${esc(q.text)}</h1>
         <form id="answerForm" class="answers">
           <div class="answer-list">
-            ${q.options.filter(o=>String(o??'').trim() && String(o).trim()!=='21').map((o,i)=>`<label class="answer-option"><input type="radio" name="answer" value="${i}" required><span class="letter">${String.fromCharCode(65+i)}</span><span class="answer-text">${esc(o)}</span></label>`).join('')}
+            ${q.options.filter(o=>String(o??'').trim() && String(o).trim()!=='21').map((o,i)=>`<label class="answer-option"><input type="radio" name="answer" value="${i}" required><span class="choice-ring"></span><span class="letter">${String.fromCharCode(65+i)}</span><span class="answer-text">${esc(o)}</span></label>`).join('')}
           </div>
           <div id="feedback"></div>
-          <div class="answer-action"><button class="primary big" id="confirmBtn">Responder</button></div>
+          <div class="answer-action"><button class="primary big answer-v28" id="confirmBtn">Responder <span aria-hidden="true">→</span></button></div>
         </form>
       </div>
     </section>
