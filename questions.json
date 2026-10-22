@@ -1,0 +1,1402 @@
+[
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Antes da chegada dos colonizadores europeus, quem já habitava o território do atual Mato Grosso do Sul?",
+    "options": [
+      "Diversos povos indígenas.",
+      "Apenas imigrantes europeus.",
+      "Somente militares do Império.",
+      "Exclusivamente trabalhadores das ferrovias."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual conjunto apresenta povos indígenas presentes em Mato Grosso do Sul?",
+    "options": [
+      "Astecas, Incas e Maias.",
+      "Terena, Guarani e Kaiowá.",
+      "Vikings, Romanos e Gregos.",
+      "Egípcios, Persas e Fenícios."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual povo indígena está presente em Mato Grosso do Sul?",
+    "options": [
+      "Viking.",
+      "Espartano.",
+      "Kadiwéu.",
+      "Cartaginês."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual afirmação reconhece corretamente a diversidade dos povos indígenas de MS?",
+    "options": [
+      "Todos possuem uma única língua e a mesma história.",
+      "Todos chegaram à região depois da criação do estado.",
+      "Nenhum mantém práticas culturais próprias.",
+      "Eles possuem diferentes línguas, histórias e tradições."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Por que os relatos de pessoas indígenas são importantes para estudar a história de MS?",
+    "options": [
+      "Permitem conhecer experiências e memórias de seus próprios povos.",
+      "Substituem a necessidade de analisar qualquer outra fonte.",
+      "Servem somente para estudar acontecimentos europeus.",
+      "Não têm relação com a história regional."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual atitude contribui para estudar os povos indígenas sem preconceito?",
+    "options": [
+      "Tratar todos os povos como se fossem iguais.",
+      "Reconhecer sua diversidade e ouvir suas perspectivas.",
+      "Afirmar que suas culturas pertencem apenas ao passado.",
+      "Desconsiderar suas experiências na história regional."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual afirmação sobre os povos indígenas de MS está correta?",
+    "options": [
+      "Existiram apenas antes da chegada dos europeus.",
+      "Desapareceram completamente durante a Guerra do Paraguai.",
+      "São sujeitos históricos e também participam da sociedade atual.",
+      "Começaram a existir somente em 1977."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Ao estudar a ocupação colonial do atual MS, por que não se deve chamar a região de território vazio?",
+    "options": [
+      "Porque o estado já tinha sido criado em 1977.",
+      "Porque já existiam rodovias modernas por toda a região.",
+      "Porque todas as cidades atuais já estavam construídas.",
+      "Porque povos indígenas já viviam nela."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual conjunto de materiais pode ajudar a pesquisar a história de uma comunidade de MS?",
+    "options": [
+      "Fotografias, documentos e relatos orais analisados criticamente.",
+      "Somente mensagens sem autoria nas redes sociais.",
+      "Apenas histórias inventadas sem indicação de origem.",
+      "Somente anúncios comerciais recentes."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Ao comparar relatos diferentes sobre o passado de MS, o estudante deve:",
+    "options": [
+      "Escolher sempre o relato mais curto.",
+      "Considerar quem produziu cada relato e em qual contexto.",
+      "Aceitar qualquer informação sem conferir.",
+      "Ignorar as diferenças entre as fontes."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "No contexto da ocupação do interior colonial, o que eram as monções?",
+    "options": [
+      "Viagens ferroviárias entre capitais no século XX.",
+      "Frotas que cruzavam apenas o oceano Atlântico.",
+      "Expedições que usavam principalmente rios para transportar pessoas e mercadorias.",
+      "Expedições feitas exclusivamente por aviões."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual cidade paulista se destacou como ponto de partida das monções para Cuiabá?",
+    "options": [
+      "Santos.",
+      "Campinas.",
+      "Ribeirão Preto.",
+      "Porto Feliz."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual era o antigo nome do porto associado à atual cidade de Porto Feliz?",
+    "options": [
+      "Araritaguaba.",
+      "Porto Canuto.",
+      "Albuquerque.",
+      "Porto Murtinho."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual era um destino importante das monções que passavam pelo atual Mato Grosso do Sul?",
+    "options": [
+      "Salvador e seu porto marítimo.",
+      "Cuiabá e sua região mineradora.",
+      "Recife e seus engenhos litorâneos.",
+      "Rio de Janeiro e suas praias."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual atividade econômica estimulou viagens para a região de Cuiabá no século XVIII?",
+    "options": [
+      "A extração de petróleo em alto-mar.",
+      "A fabricação de automóveis.",
+      "A mineração de ouro.",
+      "A produção de computadores."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual município do atual MS teve papel importante como varadouro na rota das monções?",
+    "options": [
+      "Naviraí.",
+      "Três Lagoas.",
+      "Ponta Porã.",
+      "Camapuã."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "O que era um varadouro, como o de Camapuã?",
+    "options": [
+      "Um trecho terrestre usado para transportar cargas e embarcações entre cursos de água.",
+      "Uma estação ferroviária destinada à troca de locomotivas.",
+      "Um porto marítimo de grandes navios.",
+      "Uma fortaleza construída em uma ilha oceânica."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual rio estava associado à saída das monções da região de Porto Feliz?",
+    "options": [
+      "Rio São Francisco.",
+      "Rio Tietê.",
+      "Rio Amazonas.",
+      "Rio Paraíba do Sul."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Quais dificuldades podiam ocorrer nas viagens das monções?",
+    "options": [
+      "Trânsito de automóveis e pedágios rodoviários.",
+      "Atrasos de voos e falta de aeroportos.",
+      "Corredeiras, fome, doenças e naufrágios.",
+      "Falhas em motores elétricos de locomotivas."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Além da circulação de mercadorias, a expansão colonial pelas monções envolveu:",
+    "options": [
+      "A ocupação de terras sem qualquer presença humana anterior.",
+      "A criação imediata de Mato Grosso do Sul como estado.",
+      "O fim de todas as desigualdades sociais na região.",
+      "Disputas territoriais e conflitos com populações que já viviam na região."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Em qual período ocorreu a Guerra do Paraguai?",
+    "options": [
+      "De 1864 a 1870.",
+      "De 1500 a 1506.",
+      "De 1822 a 1828.",
+      "De 1939 a 1945."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quais países formaram a Tríplice Aliança contra o Paraguai?",
+    "options": [
+      "Brasil, Chile e Bolívia.",
+      "Brasil, Argentina e Uruguai.",
+      "Argentina, Peru e Equador.",
+      "Uruguai, Colômbia e Venezuela."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Durante a Guerra do Paraguai, a maior parte do território do atual MS integrava:",
+    "options": [
+      "O estado de Mato Grosso do Sul já instalado.",
+      "A província da Bahia.",
+      "A província de Mato Grosso.",
+      "O estado do Tocantins."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Como o sul da então província de Mato Grosso foi atingido no início da Guerra do Paraguai?",
+    "options": [
+      "Foi transformado em capital da Argentina.",
+      "Foi ocupado por tropas japonesas.",
+      "Foi separado do Brasil para formar o Acre.",
+      "Foi invadido por forças paraguaias."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quem governava o Paraguai durante a Guerra do Paraguai?",
+    "options": [
+      "Francisco Solano López.",
+      "Pedro Álvares Cabral.",
+      "Ernesto Geisel.",
+      "Harry Amorim Costa."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retirada da Laguna",
+    "grade": "8",
+    "type": "choice",
+    "text": "A Retirada da Laguna foi um episódio de qual conflito?",
+    "options": [
+      "Guerra de Canudos.",
+      "Guerra do Paraguai.",
+      "Primeira Guerra Mundial.",
+      "Revolução Farroupilha."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retirada da Laguna",
+    "grade": "8",
+    "type": "choice",
+    "text": "Em que ano ocorreu a Retirada da Laguna?",
+    "options": [
+      "1777.",
+      "1922.",
+      "1867.",
+      "1979."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retirada da Laguna",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual escritor participou da expedição e registrou o episódio em A Retirada da Laguna?",
+    "options": [
+      "Machado de Assis.",
+      "José de Alencar.",
+      "Monteiro Lobato.",
+      "Alfredo d’Escragnolle Taunay, o Visconde de Taunay."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retirada da Laguna",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual conjunto de problemas contribuiu para as perdas durante a Retirada da Laguna?",
+    "options": [
+      "Falta de alimentos, doenças e ataques das tropas paraguaias.",
+      "Apenas a falta de trens de passageiros.",
+      "Somente o frio polar e avalanches.",
+      "Exclusivamente acidentes aéreos."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retirada da Laguna",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual doença teve grande impacto sobre a tropa durante a Retirada da Laguna?",
+    "options": [
+      "Sarampo como única causa das perdas.",
+      "Cólera.",
+      "Covid-19.",
+      "Gripe espanhola de 1918."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retomada de Corumbá",
+    "grade": "8",
+    "type": "choice",
+    "text": "Em qual data ocorreu a Retomada de Corumbá durante a Guerra do Paraguai?",
+    "options": [
+      "7 de setembro de 1822.",
+      "11 de outubro de 1977.",
+      "13 de junho de 1867.",
+      "1º de janeiro de 1979."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retomada de Corumbá",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quem liderou as tropas brasileiras na Retomada de Corumbá?",
+    "options": [
+      "Ernesto Geisel.",
+      "Harry Amorim Costa.",
+      "Pedro Álvares Cabral.",
+      "Antônio Maria Coelho."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retomada de Corumbá",
+    "grade": "8",
+    "type": "choice",
+    "text": "O que significa a expressão Retomada de Corumbá nesse episódio?",
+    "options": [
+      "A reconquista da cidade por tropas brasileiras após ocupação paraguaia.",
+      "A criação do estado de Mato Grosso do Sul.",
+      "A chegada da primeira locomotiva a Campo Grande.",
+      "A transferência da capital de Cuiabá para Corumbá."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retomada de Corumbá",
+    "grade": "8",
+    "type": "choice",
+    "text": "De onde partiram as tropas da operação de Retomada de Corumbá em maio de 1867?",
+    "options": [
+      "Do porto de Santos.",
+      "Do porto de Cuiabá.",
+      "Da cidade de Salvador.",
+      "Da cidade de Porto Alegre."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Retomada de Corumbá",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual situação descreve Corumbá antes da operação de junho de 1867?",
+    "options": [
+      "Era a capital de Mato Grosso do Sul desde 1979.",
+      "Estava sob ocupação japonesa.",
+      "Estava ocupada por forças paraguaias desde 1865.",
+      "Tinha sido fundada depois de 1900."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual produto vegetal teve grande importância econômica no sul de Mato Grosso após a Guerra do Paraguai?",
+    "options": [
+      "Cacau como único produto regional.",
+      "Borracha extraída apenas na floresta amazônica.",
+      "Trigo cultivado exclusivamente na Europa.",
+      "Erva-mate."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "A Companhia Mate Laranjeira ficou associada principalmente à exploração de:",
+    "options": [
+      "Ervais nativos.",
+      "Minas de carvão submarinas.",
+      "Jazidas de petróleo no litoral.",
+      "Fábricas de aviões."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual atividade, junto à erva-mate, teve papel importante na economia regional após a Guerra do Paraguai?",
+    "options": [
+      "Indústria aeroespacial.",
+      "Pecuária.",
+      "Pesca de baleias.",
+      "Cultivo de oliveiras no Mediterrâneo."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual ferrovia teve importante participação na história de Campo Grande e da região?",
+    "options": [
+      "Estrada de Ferro Madeira-Mamoré.",
+      "Estrada de Ferro Carajás.",
+      "Estrada de Ferro Noroeste do Brasil.",
+      "Ferrovia Transiberiana."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual mudança o transporte ferroviário podia favorecer na região?",
+    "options": [
+      "O fim de toda circulação comercial.",
+      "A transformação de rios em oceanos.",
+      "O desaparecimento imediato das cidades.",
+      "Maior circulação de pessoas e mercadorias entre localidades."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Por que o antigo complexo ferroviário de Campo Grande é importante para a memória regional?",
+    "options": [
+      "Preserva vestígios do trabalho e da vida ligados à ferrovia.",
+      "Comprova que não existiram trabalhadores ferroviários.",
+      "Foi construído para representar a navegação das monções no século XVIII.",
+      "É um conjunto sem relação com a história dos transportes."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual fenômeno contribuiu para a diversidade cultural de Mato Grosso do Sul?",
+    "options": [
+      "A ausência completa de contato com regiões vizinhas.",
+      "Migrações e contatos entre diferentes povos e regiões.",
+      "A participação de apenas um grupo na formação regional.",
+      "O desaparecimento de todas as culturas indígenas."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual bebida ligada à erva-mate e às relações culturais de fronteira é conhecida em MS?",
+    "options": [
+      "Saquê.",
+      "Sidra.",
+      "Tereré.",
+      "Café expresso."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Em qual data foi sancionada a lei que criou Mato Grosso do Sul?",
+    "options": [
+      "1º de janeiro de 1979.",
+      "13 de junho de 1867.",
+      "7 de setembro de 1822.",
+      "11 de outubro de 1977."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quando ocorreu a instalação oficial do estado de Mato Grosso do Sul?",
+    "options": [
+      "1º de janeiro de 1979.",
+      "11 de outubro de 1977.",
+      "15 de novembro de 1889.",
+      "22 de abril de 1500."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Mato Grosso do Sul foi criado pelo desmembramento de qual estado?",
+    "options": [
+      "Goiás.",
+      "Mato Grosso.",
+      "Paraná.",
+      "São Paulo."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual presidente sancionou a lei de criação de Mato Grosso do Sul?",
+    "options": [
+      "Getúlio Vargas.",
+      "Juscelino Kubitschek.",
+      "Ernesto Geisel.",
+      "Dom Pedro II."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quem foi o primeiro governador a tomar posse na instalação de Mato Grosso do Sul?",
+    "options": [
+      "Antônio Maria Coelho.",
+      "Visconde de Taunay.",
+      "Francisco Solano López.",
+      "Harry Amorim Costa."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual é a capital do estado de Mato Grosso do Sul?",
+    "options": [
+      "Campo Grande.",
+      "Cuiabá.",
+      "Corumbá.",
+      "Dourados."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "De qual município Naviraí foi desmembrado ao se tornar município em 1963?",
+    "options": [
+      "Camapuã.",
+      "Caarapó.",
+      "Corumbá.",
+      "Campo Grande."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Uma tradição oral pode ser considerada fonte histórica porque:",
+    "options": [
+      "Registra e transmite memórias, experiências e conhecimentos de uma comunidade.",
+      "Só tem valor quando confirma um documento escrito.",
+      "Serve apenas para contar histórias imaginárias.",
+      "Não permite estudar sociedades do passado."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Ao estudar diferentes povos indígenas de Mato Grosso do Sul, qual cuidado é mais adequado?",
+    "options": [
+      "Usar uma única cultura indígena como modelo para todas.",
+      "Reconhecer que cada povo possui história, língua e costumes próprios.",
+      "Considerar que todos vivem da mesma maneira.",
+      "Estudar apenas os povos mencionados em documentos coloniais."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Vestígios arqueológicos encontrados no território sul-mato-grossense ajudam a demonstrar que:",
+    "options": [
+      "A ocupação humana começou apenas após 1977.",
+      "Somente europeus ocuparam a região antes do século XX.",
+      "A presença humana na região é muito anterior à criação do estado.",
+      "As populações antigas não deixaram qualquer evidência material."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Em História, o que pode ser entendido como cultura material?",
+    "options": [
+      "Somente textos produzidos por governos.",
+      "Apenas músicas e relatos orais.",
+      "Exclusivamente fotografias digitais.",
+      "Objetos, construções e outros vestígios produzidos pelas sociedades."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Por que é importante preservar objetos, fotografias e documentos antigos de uma comunidade?",
+    "options": [
+      "Porque podem servir como fontes para compreender mudanças e permanências no tempo.",
+      "Porque todo objeto antigo possui necessariamente grande valor financeiro.",
+      "Porque substituem completamente os relatos das pessoas.",
+      "Porque impedem novas interpretações históricas."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Ao realizar uma entrevista de história oral, o estudante deve:",
+    "options": [
+      "Alterar as respostas para que combinem com o livro didático.",
+      "Registrar quem fala, o contexto da entrevista e analisar o relato criticamente.",
+      "Desconsiderar a memória do entrevistado.",
+      "Usar apenas perguntas que possam ser respondidas com sim ou não."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual atitude evita uma visão estereotipada dos povos indígenas?",
+    "options": [
+      "Afirmar que todos pertencem ao passado.",
+      "Apresentar todos como se fossem um único povo.",
+      "Estudar suas diferentes experiências históricas e realidades atuais.",
+      "Ignorar as mudanças ocorridas em suas culturas ao longo do tempo."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Quando duas fontes históricas apresentam versões diferentes sobre um acontecimento, o pesquisador deve:",
+    "options": [
+      "Escolher automaticamente a versão mais antiga.",
+      "Descartar as duas fontes.",
+      "Aceitar apenas a versão que tenha mais detalhes.",
+      "Comparar autoria, contexto, interesses e outras evidências disponíveis."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "A presença indígena na história de Mato Grosso do Sul deve ser compreendida como:",
+    "options": [
+      "Parte da formação histórica regional desde antes da colonização até o presente.",
+      "Um fenômeno restrito ao período colonial.",
+      "Uma realidade iniciada somente no século XX.",
+      "Um tema sem relação com a sociedade atual."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Povos indígenas e memória",
+    "grade": "6",
+    "type": "choice",
+    "text": "Qual prática ajuda a valorizar a memória de uma comunidade local?",
+    "options": [
+      "Eliminar relatos que apresentam opiniões diferentes.",
+      "Criar acervos com documentos, fotografias e depoimentos identificados.",
+      "Guardar somente objetos produzidos por autoridades.",
+      "Evitar registrar histórias de moradores antigos."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Nas rotas monçoeiras rumo a Cuiabá, por que os rios eram fundamentais?",
+    "options": [
+      "Porque substituíam completamente todos os trechos terrestres.",
+      "Porque eram usados apenas para lazer dos viajantes.",
+      "Porque funcionavam como importantes vias de deslocamento pelo interior.",
+      "Porque já possuíam portos modernos e ferrovias em suas margens."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Qual era uma função das canoas utilizadas pelas monções?",
+    "options": [
+      "Transportar somente correspondências oficiais.",
+      "Levar exclusivamente soldados.",
+      "Servir apenas para atravessar pequenos córregos.",
+      "Transportar pessoas, alimentos, ferramentas e mercadorias por longas distâncias."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "A existência de trechos de varação nas monções mostra que:",
+    "options": [
+      "Nem todo o percurso podia ser feito continuamente pelo mesmo curso de água.",
+      "As viagens eram realizadas apenas por terra.",
+      "As embarcações não transportavam cargas.",
+      "Os rios do interior eram todos navegáveis sem obstáculos."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Por que pontos de apoio ao longo das rotas eram importantes para os monçoeiros?",
+    "options": [
+      "Porque serviam apenas como locais de cobrança de impostos modernos.",
+      "Porque permitiam descanso, abastecimento e reorganização da viagem.",
+      "Porque eram aeroportos usados para completar o percurso.",
+      "Porque eliminavam a necessidade de navegar pelos rios."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "As viagens monçoeiras entre São Paulo e Cuiabá podiam durar muitos meses principalmente devido:",
+    "options": [
+      "À existência de rodovias congestionadas.",
+      "À obrigação de viajar apenas durante a noite.",
+      "À grande distância e às dificuldades naturais do percurso.",
+      "À proibição de transportar alimentos nas embarcações."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "O abastecimento da região mineradora de Cuiabá pelas monções demonstra:",
+    "options": [
+      "Que as áreas mineradoras eram totalmente autossuficientes.",
+      "Que apenas metais preciosos circulavam pelas rotas.",
+      "Que a mineração não estimulou outras atividades econômicas.",
+      "Que a mineração criou demanda por alimentos, ferramentas e outros produtos."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "O conhecimento de caminhos, rios e recursos naturais por populações que viviam no interior era importante porque:",
+    "options": [
+      "Podia auxiliar deslocamentos e estratégias de sobrevivência na região.",
+      "Impedía qualquer viagem colonial.",
+      "Tornava desnecessário o uso de embarcações.",
+      "Eliminava conflitos pela ocupação territorial."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Fronteira colonial",
+    "grade": "7",
+    "type": "choice",
+    "text": "A construção de fortificações na região do atual Mato Grosso do Sul durante o período colonial estava relacionada principalmente:",
+    "options": [
+      "À expansão de indústrias automobilísticas.",
+      "À defesa e ao controle de áreas de fronteira.",
+      "À organização de eleições estaduais.",
+      "À instalação das primeiras ferrovias."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Fronteira colonial",
+    "grade": "7",
+    "type": "choice",
+    "text": "O Forte Coimbra, construído às margens do rio Paraguai, exemplifica:",
+    "options": [
+      "Uma estação ferroviária do século XX.",
+      "Um centro de produção de café.",
+      "Uma estratégia de defesa do território na fronteira oeste.",
+      "Uma capital criada após a divisão de Mato Grosso."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Rota das monções",
+    "grade": "7",
+    "type": "choice",
+    "text": "Para estudar historicamente as monções, qual conjunto de fontes é especialmente útil?",
+    "options": [
+      "Somente propagandas atuais.",
+      "Apenas fotografias de satélite contemporâneas.",
+      "Exclusivamente relatos sem identificação.",
+      "Mapas, relatos de viagem, documentos e vestígios dos antigos caminhos."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "No início da Guerra do Paraguai, em 1864, qual área brasileira foi diretamente atacada pelas forças paraguaias?",
+    "options": [
+      "A província de Mato Grosso.",
+      "A província do Amazonas.",
+      "A província de Pernambuco.",
+      "A província do Espírito Santo."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Por que Corumbá possuía importância estratégica durante a Guerra do Paraguai?",
+    "options": [
+      "Porque era o principal centro cafeeiro do Sudeste.",
+      "Por sua posição às margens do rio Paraguai e pela circulação fluvial.",
+      "Porque já era a capital de Mato Grosso do Sul.",
+      "Porque concentrava a indústria automobilística brasileira."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Antônio João Ribeiro é lembrado na história regional por sua atuação:",
+    "options": [
+      "Na criação de Mato Grosso do Sul em 1977.",
+      "Na construção da Estrada de Ferro Noroeste do Brasil.",
+      "Na defesa da Colônia Militar de Dourados durante a invasão paraguaia.",
+      "Na fundação de Naviraí em 1952."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "A presença de fortificações e colônias militares no sul da antiga província de Mato Grosso revela:",
+    "options": [
+      "A inexistência de disputas na região.",
+      "A prioridade dada apenas ao turismo.",
+      "A ausência de fronteiras internacionais.",
+      "A preocupação do Império com a defesa de áreas fronteiriças."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Durante a guerra, as dificuldades de comunicação entre Mato Grosso e outras áreas do Império estavam relacionadas, entre outros fatores:",
+    "options": [
+      "Às grandes distâncias e às limitações dos meios de transporte da época.",
+      "À existência de linhas aéreas insuficientes.",
+      "À proibição do uso de cavalos.",
+      "À falta de redes digitais de comunicação."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "A participação de povos indígenas nos conflitos da fronteira demonstra que:",
+    "options": [
+      "A guerra envolveu apenas exércitos regulares europeus.",
+      "Diferentes grupos locais também participaram de processos militares e territoriais.",
+      "As populações indígenas permaneceram sempre isoladas dos acontecimentos.",
+      "A guerra ocorreu somente em áreas litorâneas."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Uma consequência da Guerra do Paraguai para áreas atingidas pelo conflito foi:",
+    "options": [
+      "A criação imediata do estado de Mato Grosso do Sul.",
+      "O início da mineração de ouro em Cuiabá.",
+      "A destruição de estruturas, deslocamentos populacionais e perdas humanas.",
+      "A inauguração da ferrovia Noroeste do Brasil."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "O rio Paraguai teve grande importância militar durante a guerra porque:",
+    "options": [
+      "Era utilizado somente para pesca de subsistência.",
+      "Não permitia o deslocamento de embarcações.",
+      "Ficava distante das áreas de combate.",
+      "Era uma importante via de transporte e comunicação na região."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "O conflito terminou em 1870. Esse dado permite concluir que:",
+    "options": [
+      "A guerra se prolongou por vários anos e produziu efeitos duradouros na região.",
+      "O conflito durou apenas algumas semanas.",
+      "Mato Grosso do Sul já existia como estado durante toda a guerra.",
+      "A ferrovia foi o principal meio de transporte das tropas desde 1864."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Guerra do Paraguai",
+    "grade": "8",
+    "type": "choice",
+    "text": "Ao analisar monumentos e nomes de ruas ligados à Guerra do Paraguai em MS, o estudante está estudando:",
+    "options": [
+      "Somente a geografia física do estado.",
+      "Formas de construção e preservação da memória histórica.",
+      "Apenas acontecimentos futuros.",
+      "Exclusivamente atividades econômicas atuais."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Em que ano as frentes de construção da Estrada de Ferro Noroeste do Brasil se encontraram em Campo Grande?",
+    "options": [
+      "1889.",
+      "1900.",
+      "1914.",
+      "1977."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "A expansão ferroviária no sul de Mato Grosso no início do século XX favoreceu:",
+    "options": [
+      "O isolamento das cidades do interior.",
+      "O fim do comércio regional.",
+      "A substituição completa de todos os outros meios de transporte.",
+      "A integração de localidades e a circulação de pessoas e mercadorias."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "A participação de trabalhadores japoneses na construção da ferrovia contribuiu para:",
+    "options": [
+      "A formação de comunidades de origem japonesa na região.",
+      "O desaparecimento da população de Campo Grande.",
+      "O fim das migrações para o sul de Mato Grosso.",
+      "A criação do estado em 1914."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Um dos objetivos estratégicos atribuídos à ferrovia Noroeste do Brasil era:",
+    "options": [
+      "Concentrar a população apenas no litoral.",
+      "Ampliar a integração territorial e a ligação com áreas de fronteira.",
+      "Substituir a navegação oceânica entre Brasil e Europa.",
+      "Encerrar a circulação comercial com países vizinhos."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "A exploração da erva-mate teve maior destaque histórico em qual porção do antigo sul de Mato Grosso?",
+    "options": [
+      "No litoral atlântico.",
+      "Na região amazônica.",
+      "Na faixa sul e de fronteira, especialmente próxima a Ponta Porã.",
+      "Somente no Pantanal norte."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Campanário ficou historicamente associado:",
+    "options": [
+      "À primeira capital de Mato Grosso do Sul.",
+      "À sede do governo imperial na fronteira.",
+      "À origem da Estrada de Ferro Noroeste do Brasil.",
+      "À estrutura empresarial ligada à exploração da erva-mate pela Mate Laranjeira."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Porto Murtinho ganhou importância histórica para a economia ervateira porque:",
+    "options": [
+      "Seu porto ajudava no escoamento da produção pelo rio Paraguai.",
+      "Foi o principal ponto de partida das monções paulistas.",
+      "Era o centro da mineração de ouro de Mato Grosso.",
+      "Concentrava a fabricação de locomotivas."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "A formação cultural de Mato Grosso do Sul recebeu forte influência paraguaia, perceptível, por exemplo:",
+    "options": [
+      "Apenas na arquitetura de castelos medievais.",
+      "Em costumes de fronteira, culinária, música e consumo do tereré.",
+      "Somente em tradições vindas do litoral nordestino.",
+      "Exclusivamente na produção industrial."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "O crescimento de cidades próximas à ferrovia pode ser explicado, entre outros fatores, pela:",
+    "options": [
+      "Proibição do comércio perto das estações.",
+      "Redução da circulação de trabalhadores.",
+      "Criação de novos fluxos de pessoas, serviços e mercadorias.",
+      "Obrigação de abandonar atividades urbanas."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Economia, migrações e ferrovia",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quando um antigo prédio ferroviário é preservado como patrimônio cultural, ele pode:",
+    "options": [
+      "Ser usado apenas para fins comerciais, sem valor histórico.",
+      "Apagar a memória dos trabalhadores da ferrovia.",
+      "Comprovar que o transporte ferroviário não teve importância regional.",
+      "Ajudar a interpretar mudanças econômicas, urbanas e sociais ocorridas na região."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual foi o instrumento jurídico que criou Mato Grosso do Sul?",
+    "options": [
+      "A Lei Complementar nº 31, de 1977.",
+      "A Constituição de 1824.",
+      "A Lei Áurea, de 1888.",
+      "O Tratado de Tordesilhas."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Os primeiros deputados estaduais eleitos em 1978 também exerceram inicialmente a função de:",
+    "options": [
+      "Prefeitos municipais.",
+      "Deputados constituintes responsáveis pela organização constitucional do novo estado.",
+      "Ministros do governo federal.",
+      "Governadores das cidades."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "No período entre a criação legal de MS, em 1977, e sua instalação, em 1979, ocorreu:",
+    "options": [
+      "O retorno do território ao domínio paraguaio.",
+      "A extinção das administrações públicas locais.",
+      "A organização das estruturas políticas e administrativas do novo estado.",
+      "A transferência da capital do Brasil para Campo Grande."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Segundo registros históricos da criação do estado, quantos deputados foram eleitos em 1978 para a Assembleia Constituinte de MS?",
+    "options": [
+      "9.",
+      "12.",
+      "36.",
+      "18."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Antes de receber o nome Naviraí, o núcleo que deu origem ao município era conhecido como:",
+    "options": [
+      "Vera Cruz.",
+      "Campanário.",
+      "Porto Feliz.",
+      "Albuquerque."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Segundo o histórico do IBGE, em que ano foi fundado o núcleo que originou Naviraí?",
+    "options": [
+      "1914.",
+      "1952.",
+      "1977.",
+      "1988."
+    ],
+    "correct": "1"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Quem é citado no histórico do IBGE como um dos responsáveis pela fundação de Naviraí?",
+    "options": [
+      "Antônio Maria Coelho.",
+      "Harry Amorim Costa.",
+      "Ariosto Riva.",
+      "Visconde de Taunay."
+    ],
+    "correct": "2"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Nos primeiros anos do povoado que deu origem a Naviraí, uma via importante de acesso era:",
+    "options": [
+      "O oceano Atlântico.",
+      "A Estrada de Ferro Noroeste do Brasil.",
+      "O rio Paraguai em Corumbá.",
+      "O rio Amambai."
+    ],
+    "correct": "3"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Em que ano Naviraí foi oficialmente instalada como município, segundo o histórico do IBGE?",
+    "options": [
+      "1965.",
+      "1952.",
+      "1977.",
+      "1990."
+    ],
+    "correct": "0"
+  },
+  {
+    "discipline": "História",
+    "axis": "História de MS — Formação do estado e história local",
+    "grade": "8",
+    "type": "choice",
+    "text": "Qual é o gentílico de quem nasce em Naviraí?",
+    "options": [
+      "Navirense.",
+      "Naviraiense.",
+      "Navirano.",
+      "Navirista."
+    ],
+    "correct": "1"
+  }
+]

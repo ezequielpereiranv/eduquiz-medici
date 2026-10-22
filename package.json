@@ -1,55 +1,16 @@
 {
-  "name": "farmacia-viva-espaco-escolar",
-  "version": "2.1.0",
-  "description": "Farmácia Viva no Espaço Escolar - FeciNAVI Naviraí-MS",
-  "main": "electron-main.js",
-  "author": "E.E. Presidente Médici",
-  "license": "MIT",
+  "name": "eduquiz-medici",
+  "version": "2.7.0",
+  "private": true,
+  "type": "module",
   "scripts": {
     "start": "node server.js",
-    "server": "node server.js",
-    "dist:win": "electron-builder --win nsis portable --x64",
-    "desktop": "electron ."
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
   },
   "dependencies": {
-    "express": "^5.1.0",
-    "socket.io": "^4.8.1",
-    "qrcode": "^1.5.4",
     "mongodb": "^6.20.0"
-  },
-  "devDependencies": {
-    "electron": "^38.1.2",
-    "electron-builder": "^26.0.12"
-  },
-  "build": {
-    "appId": "br.ms.medici.feiraciencias",
-    "productName": "Farmácia Viva no Espaço Escolar",
-    "asar": true,
-    "files": [
-      "electron-main.js",
-      "server.js",
-      "public/**/*",
-      "package.json",
-      "node_modules/**/*"
-    ],
-    "directories": {
-      "output": "dist"
-    },
-    "win": {
-      "target": [
-        "nsis",
-        "portable"
-      ]
-    },
-    "nsis": {
-      "oneClick": false,
-      "allowToChangeInstallationDirectory": true,
-      "createDesktopShortcut": true,
-      "createStartMenuShortcut": true,
-      "shortcutName": "Feira de Ciências"
-    },
-    "portable": {
-      "artifactName": "Pesquisa-Feira-Ciencias-Portatil-${version}.exe"
-    }
   }
 }
